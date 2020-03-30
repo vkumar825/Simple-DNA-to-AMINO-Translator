@@ -6,4 +6,5 @@ This is a simple DNA Sequencer built using Python. In this program, you can choo
 
 - Transcribe DNA To mRNA (This process is the same as the one above with the exception of T (which stands for Thymine) is replaced by U (Uracil)
 
--Translate DNA To Protein (This converts DNA to mRNA, which in turn is connected to python dictionary called codon_dict which has all the corresponding Amino Acids to the specific sequence of mRNA. During this process, you can choose to have which character represent a Start protein (Met) and STOP Protein.)
+
+- Translate DNA To Protein (This converts DNA to mRNA, which in turn is connected to python dictionary called codon_dict which has all the corresponding Amino Acids to the specific sequence of mRNA. During this process, you can choose to have which character represent a Start protein (Met) and STOP Protein.)
