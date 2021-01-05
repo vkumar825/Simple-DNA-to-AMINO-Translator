@@ -1,4 +1,4 @@
-# Simple-DNA-to-AMINO-Translator
+# DNA-to-AMINO-Translator
 
 This is a simple DNA to Amino Translator built using Python. In this program, you can choose to import an existing file that contains a DNA Sequence file, or generate one. You are not limited by the amount you want to generate, whether you want to have the length of 10, or even higher up to the length of 1000 base pairs. But it is reccommended to keep the length of the sequence below 1000 as to not clutter the output terminal. 
 
